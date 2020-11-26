@@ -1,0 +1,20 @@
+{
+  "main": "index.js",
+  "author": "lucycoderr",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@codedipper/random-code": "^1.0.2",
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.6",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.2"
+    },
+  "engines": {
+    "node": "12.x"
+  }
+}
